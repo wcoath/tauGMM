@@ -1,4 +1,4 @@
-## Functions to run GMM on tau data with GIF and freesurfer, save pos and rates
+## Functions to run GMM, save pos and rates
 
 # libraries ####
 library(tidyverse)
